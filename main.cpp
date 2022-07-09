@@ -17,7 +17,7 @@ return ways_count;
 }
 int main() {
     cout << "hello little rabbit, how many stairs do you want to climb?\n";
-    cout << "Enter climb number: ";
+    cout << "Enter stairs number: ";
     int n;
     cin >> n;
 
