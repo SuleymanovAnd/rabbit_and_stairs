@@ -21,7 +21,10 @@ int main() {
     int n;
     cin >> n;
 
-   cout <<  numberOfWays (n) << " ways for you!";
+    cout << "Enter jump length : ";
+    int k;
+    cin >> k;
+   cout <<  numberOfWays (n,k) << " ways for you!";
 
 
 
